@@ -1,6 +1,6 @@
 # Hi, I'm Amanda
 
-First-year Computer Engineering student at Epoka University, maintaining a 4.0 GPA.
+First-year Computer Engineering student, maintaining a 4.0 GPA.
 Currently deepening my C and C++ skills while building backend projects with Python and FastAPI.
 
 ## Skills
