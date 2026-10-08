@@ -8,6 +8,7 @@ Currently deepening my C and C++ skills while building backend projects with Pyt
 - **Python** — intermediate, FastAPI, SQLAlchemy, pytest, async programming
 - **C** — structs, file I/O, sorting, pointers, modular design
 - **C++** — in progress
+- **Java** - in progress
 - **SQL & PostgreSQL** — schema design, migrations with Alembic
 - **Git & GitHub**
 
