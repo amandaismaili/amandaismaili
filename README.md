@@ -1,7 +1,7 @@
 # Hi, I'm Amanda
 
 First-year Computer Engineering student, maintaining a 4.0 GPA.
-Currently deepening my C and C++ skills while building backend projects with Python and FastAPI.
+Currently deepening my Java skills while building backend projects with Python and FastAPI.
 
 ## Skills
 
@@ -18,7 +18,7 @@ Currently deepening my C and C++ skills while building backend projects with Pyt
 
 ## What I'm working on
 
-- Strengthening C and C++ fundamentals (data structures, modular programming)
+- Java OOP concepts
 - Backend development with FastAPI and PostgreSQL
 
 
