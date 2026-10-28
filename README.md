@@ -1,6 +1,6 @@
 # Hi, I'm Amanda
 
-First-year Computer Engineering student, maintaining a 4.0 GPA.
+Second-year Computer Engineering student, maintaining a 4.0 GPA.
 Currently deepening my Java skills while building backend projects with Python and FastAPI.
 
 ## Skills
